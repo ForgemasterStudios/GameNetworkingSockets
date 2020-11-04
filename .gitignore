@@ -38,8 +38,17 @@ perf.data.old
 
 *.VC.*
 /.vscode
-/build
-/build-*
+/projects/GameNetworkingSocketsAndroid/.vs/*
+/projects/GameNetworkingSocketsAndroid/ARM64/*
+/projects/GameNetworkingSocketsAndroid/GameNetworkingSocketsAndroid/ARM64/*
+/projects/GameNetworkingSocketsAndroid/webrtc-lite/ARM64/*
+/projects/GameNetworkingSocketsAndroid/steamwebrtc/ARM64/*
+/projects/GameNetworkingSocketsAndroid/Abseil/ARM64/*
+/projects/GameNetworkingSocketsAndroid/abseil_strings/ARM64/*
+/projects/GameNetworkingSocketsAndroid/Android1/Android1.NativeActivity/ARM64/*
+/projects/GameNetworkingSocketsAndroid/Android1/Android1.Packaging/ARM64/*
+/projects/GameNetworkingSocketsAndroid/AndroidApp/AndroidApp.NativeActivity/ARM64/*
+/projects/GameNetworkingSocketsAndroid/AndroidApp/AndroidApp.Packaging/ARM64/*
 /log.txt
 /src/.vs/*
 /src/steamnetworkingsockets/Messageswin64Debug/*
